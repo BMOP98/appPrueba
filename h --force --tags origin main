@@ -1,0 +1,198 @@
+[33mcommit 7986fb9ce713ccf8db74a39b307b10e7f8873d90[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 33fc770 ac9806a
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Sun Sep 1 22:08:14 2024 -0500
+
+    Merge branch 'main' of https://github.com/jossy2307/MecanicaProject
+
+[33mcommit 33fc770d3834bb272ddcb092d19380af4378cd00[m
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Sun Sep 1 22:05:18 2024 -0500
+
+    add mejoras
+
+[33mcommit ac9806a326fb31007610443573320ff251115392[m
+Author: Jefferson Jacome <jeffesjacome@gmail.com>
+Date:   Sun Sep 1 21:16:31 2024 -0500
+
+    refactoring modelo vehiculos
+
+[33mcommit 2c474071af537d43ef1f3c932d167b4dd71b2ae5[m
+Author: Jefferson Jacome <jeffesjacome@gmail.com>
+Date:   Thu Aug 22 13:38:58 2024 -0500
+
+    update cliente y vehiculo
+
+[33mcommit 2ae7920c3b7312aa230295652ad290d3e7a03156[m
+Merge: ecb905d ada1746
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Thu Aug 22 10:04:25 2024 -0500
+
+    Merge branch 'main' of https://github.com/jossy2307/MecanicaProject
+
+[33mcommit ecb905dba3f909fee31dc216285d06ebb55c2776[m
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Thu Aug 22 10:03:59 2024 -0500
+
+    changing text
+
+[33mcommit ada174622c6ea6ff9bd77a9cc23933f9f2cb739a[m
+Author: Jefferson Jacome <jeffesjacome@gmail.com>
+Date:   Thu Aug 22 09:55:00 2024 -0500
+
+    new changes
+
+[33mcommit 2687a60eabcc01d432ba7ad0cf3a174be2452748[m
+Merge: 2c9f7bf b1e6df8
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Wed Aug 21 21:16:58 2024 -0500
+
+    Merge branch 'main' of https://github.com/jossy2307/MecanicaProject
+
+[33mcommit 2c9f7bf21852fe96eb0a344d5d3f82bfc2294289[m
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Wed Aug 21 21:15:29 2024 -0500
+
+    fix index vehiculo
+
+[33mcommit 9e49c218e433a77236d1b9e3d97b4df433adf766[m
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Wed Aug 21 21:15:13 2024 -0500
+
+    add validations
+
+[33mcommit b1e6df80047681b6dcb1719859a42a5eb99eccd7[m
+Author: Jefferson Jacome <jeffesjacome@gmail.com>
+Date:   Wed Aug 21 21:13:55 2024 -0500
+
+    new feats new changes
+
+[33mcommit 7edd29730bd87379d0a7249731395884257d4732[m
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Mon Aug 19 16:56:23 2024 -0500
+
+    add message error rol
+
+[33mcommit 921b35c9b844d4914eb6b162fe37bc1ff4fdaab3[m
+Merge: 671f341 336dcd5
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Mon Aug 19 16:55:59 2024 -0500
+
+    Merge branch 'main' of https://github.com/jossy2307/MecanicaProject
+
+[33mcommit 671f341b3511a9ba792b634fc7bbae6a9628957b[m
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Mon Aug 19 16:54:34 2024 -0500
+
+    add breadcrumbs vistas and messages error
+
+[33mcommit 336dcd52f566a2706ac47b1fc36a7bb0189bdb97[m
+Author: Jefferson Jacome <jeffesjacome@gmail.com>
+Date:   Mon Aug 19 16:53:31 2024 -0500
+
+    add roles register user
+
+[33mcommit ed827b9f043282b637396a1d06642567e0dba9dc[m
+Merge: 44ed3f9 96a4f8b
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Mon Aug 19 14:51:02 2024 -0500
+
+    Merge branch 'main' of https://github.com/jossy2307/MecanicaProject
+
+[33mcommit 44ed3f9be36a9b9d4a7f7fc656ca760c3590c674[m
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Mon Aug 19 14:50:53 2024 -0500
+
+    translate textos
+
+[33mcommit 96a4f8b6e16023f6284d461faecee39550e51a5b[m
+Author: Jefferson Jacome <jeffesjacome@gmail.com>
+Date:   Mon Aug 19 14:49:49 2024 -0500
+
+    fix systemn
+
+[33mcommit 3f5a19c23630c4fbbb162224df3aef90a885b11a[m
+Author: Jefferson Jacome <jeffesjacome@gmail.com>
+Date:   Sun Aug 18 23:38:20 2024 -0500
+
+    fix link URL
+
+[33mcommit efd2db67f339a2a78d13084e5d3d1768142699d2[m
+Merge: 1173067 d7f040d
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Sun Aug 18 21:19:09 2024 -0500
+
+    Merge branch 'cambios'
+
+[33mcommit d7f040de4d0770a5c5db9e68d9be492dfd734842[m[33m ([m[1;31morigin/cambios[m[33m, [m[1;32mcambios[m[33m)[m
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Sun Aug 18 21:18:24 2024 -0500
+
+    translate text
+
+[33mcommit 1173067be2670eea1a0eeb638a7008548016eda0[m
+Author: Jefferson Jacome <jeffesjacome@gmail.com>
+Date:   Sun Aug 18 21:10:55 2024 -0500
+
+    mails register link
+
+[33mcommit 2bebc3cc82868f49e32816a2ade08be871d38060[m
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Sun Aug 18 20:34:01 2024 -0500
+
+    add verification rol | movil
+
+[33mcommit 6de4c96088dc12accdf230236b06d5a3ed75abb3[m
+Merge: c689330 e2a9390
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Sun Aug 18 19:50:04 2024 -0500
+
+    Merge branch 'main' of https://github.com/jossy2307/MecanicaProject
+
+[33mcommit c689330944caa202c6ad75042a4b9414e4cc5020[m
+Author: jossy2307 <jo.ssytapia2307@gmail.com>
+Date:   Sun Aug 18 19:49:54 2024 -0500
+
+    fix sum total - valores mecanica
+
+[33mcommit e2a939067fb756eab214c780ef550f2ef2645f53[m
+Author: Jefferson Jacome <jeffesjacome@gmail.com>
+Date:   Sun Aug 18 19:48:28 2024 -0500
+
+    refactoring empresa | auth | users
+
+[33mcommit c7215b139a4542c99857be647642328f633b4396[m
+Author: Jefferson Jacome <jeffesjacome@gmail.com>
+Date:   Fri Aug 16 13:39:14 2024 -0500
+
+    add roles y permisos
+
+[33mcommit 972828aadc87fce301c8e8ec4ab42ee87a8e3225[m
+Author: Jefferson Jacome <jeffesjacome@gmail.com>
+Date:   Fri Aug 16 01:11:05 2024 -0500
+
+    add mail notificacion
+
+[33mcommit c2d2643cf6c5d4ab3f91a317a1fb07ea0a8e50a7[m
+Author: Jefferson Jacome <jeffesjacome@gmail.com>
+Date:   Thu Aug 15 23:24:52 2024 -0500
+
+    add auth and roles and users
+
+[33mcommit 24a5f6c7e023d773a3de120356c4d92910bf1e25[m
+Author: Jefferson Jacome <jeffesjacome@gmail.com>
+Date:   Wed Aug 14 17:04:51 2024 -0500
+
+    feat: dashboard and print
+
+[33mcommit 02e8ebe4883a5b06412249e428e84886a5d23f44[m
+Author: Jefferson Jacome <jeffesjacome@gmail.com>
+Date:   Wed Aug 7 19:17:55 2024 -0500
+
+    all functions proyect
+
+[33mcommit 6de5523fac02a34cb41643d037e97e232f7e5d32[m
+Author: Jefferson Jacome <jeffesjacome@gmail.com>
+Date:   Tue Jul 30 23:40:19 2024 -0500
+
+    first commit with CRUDS
